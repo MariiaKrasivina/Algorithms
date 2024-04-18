@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/STRUCTURES/BINARY SEARCH TREE/cmake-build-debug/CMakeFiles/BINARY_SEARCH_TREE.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURES/BINARY SEARCH TREE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURES/BINARY SEARCH TREE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
