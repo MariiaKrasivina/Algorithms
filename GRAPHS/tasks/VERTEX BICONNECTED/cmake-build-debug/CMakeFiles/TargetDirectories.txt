@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/GRAPHS/VERTEX BICONNECTED/cmake-build-debug/CMakeFiles/VERTEX_BICONNECTED.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/VERTEX BICONNECTED/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/VERTEX BICONNECTED/cmake-build-debug/CMakeFiles/rebuild_cache.dir
