@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/STACK/cmake-build-debug/CMakeFiles/STACK.dir
+/Users/mariakrasivina/CLionProjects/STACK/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/STACK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
