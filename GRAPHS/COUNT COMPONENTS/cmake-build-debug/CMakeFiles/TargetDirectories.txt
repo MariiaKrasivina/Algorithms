@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/GRAPHS/count components/cmake-build-debug/CMakeFiles/count_components.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/count components/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/count components/cmake-build-debug/CMakeFiles/rebuild_cache.dir

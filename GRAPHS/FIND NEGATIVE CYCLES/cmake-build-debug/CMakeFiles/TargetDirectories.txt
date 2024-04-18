@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/GRAPHS/FIND NEGATIVE CYCLES/cmake-build-debug/CMakeFiles/FIND_NEGATIVE_CYCLES.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/FIND NEGATIVE CYCLES/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/FIND NEGATIVE CYCLES/cmake-build-debug/CMakeFiles/rebuild_cache.dir
