@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/min distance among people/cmake-build-debug/CMakeFiles/min_distance_among_people.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/min distance among people/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/min distance among people/cmake-build-debug/CMakeFiles/rebuild_cache.dir
