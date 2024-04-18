@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/tasks/business/cmake-build-debug/CMakeFiles/business.dir
+/Users/mariakrasivina/CLionProjects/tasks/business/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/tasks/business/cmake-build-debug/CMakeFiles/rebuild_cache.dir

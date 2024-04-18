@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/tasks/the most difficult/cmake-build-debug/CMakeFiles/the_most_difficult.dir
+/Users/mariakrasivina/CLionProjects/tasks/the most difficult/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/tasks/the most difficult/cmake-build-debug/CMakeFiles/rebuild_cache.dir
