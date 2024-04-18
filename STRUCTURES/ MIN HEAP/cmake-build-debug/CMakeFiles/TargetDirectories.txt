@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/STRUCTURES/ MIN HEAP/cmake-build-debug/CMakeFiles/_MIN_HEAP.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURES/ MIN HEAP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURES/ MIN HEAP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
