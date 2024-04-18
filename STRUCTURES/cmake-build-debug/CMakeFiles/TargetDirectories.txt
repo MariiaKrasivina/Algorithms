@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/Structures/cmake-build-debug/CMakeFiles/Structures.dir
+/Users/mariakrasivina/CLionProjects/Structures/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/Structures/cmake-build-debug/CMakeFiles/rebuild_cache.dir
