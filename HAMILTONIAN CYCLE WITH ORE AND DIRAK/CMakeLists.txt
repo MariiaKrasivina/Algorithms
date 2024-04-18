@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.26)
-project(HAMILTONIAN_CYCLE_WITH_ORE_AND_DIRAK)
-
-set(CMAKE_CXX_STANDARD 17)
-
-add_executable(HAMILTONIAN_CYCLE_WITH_ORE_AND_DIRAK main.cpp)
