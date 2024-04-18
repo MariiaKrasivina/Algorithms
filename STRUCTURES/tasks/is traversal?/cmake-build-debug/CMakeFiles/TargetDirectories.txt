@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/is traversal?/cmake-build-debug/CMakeFiles/is_traversal_.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/is traversal?/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/is traversal?/cmake-build-debug/CMakeFiles/rebuild_cache.dir
