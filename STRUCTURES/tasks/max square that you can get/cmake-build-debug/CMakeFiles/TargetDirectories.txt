@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/max square that you can get/cmake-build-debug/CMakeFiles/max_square_that_you_can_get.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/max square that you can get/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/max square that you can get/cmake-build-debug/CMakeFiles/rebuild_cache.dir
