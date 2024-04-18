@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/QUEUE/cmake-build-debug/CMakeFiles/QUEUE.dir
+/Users/mariakrasivina/CLionProjects/QUEUE/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/QUEUE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
