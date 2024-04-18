@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/GRAPHS/MST/cmake-build-debug/CMakeFiles/MST.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/MST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/MST/cmake-build-debug/CMakeFiles/rebuild_cache.dir
