@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/djekstra + difficult input/cmake-build-debug/CMakeFiles/djekstra___difficult_input.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/djekstra + difficult input/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/djekstra + difficult input/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/find second min MST/cmake-build-debug/CMakeFiles/find_second_min_MST.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/find second min MST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/find second min MST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

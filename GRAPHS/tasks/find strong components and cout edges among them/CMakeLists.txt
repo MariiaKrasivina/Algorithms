@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(find_strong_components_and_cout_edges_among_them)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(find_strong_components_and_cout_edges_among_them main.cpp)

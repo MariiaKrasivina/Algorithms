@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/imagine this graph as 3 or more trees/cmake-build-debug/CMakeFiles/imagine_this_graph_as_3_or_more_trees.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/imagine this graph as 3 or more trees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/GRAPHS/tasks/imagine this graph as 3 or more trees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
