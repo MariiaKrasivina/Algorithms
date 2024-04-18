@@ -1,3 +1,0 @@
-/Users/mariakrasivina/CLionProjects/SORT/cmake-build-debug/CMakeFiles/SORT.dir
-/Users/mariakrasivina/CLionProjects/SORT/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/mariakrasivina/CLionProjects/SORT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
