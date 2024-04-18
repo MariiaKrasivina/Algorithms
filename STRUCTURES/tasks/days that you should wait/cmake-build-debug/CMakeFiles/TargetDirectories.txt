@@ -1,0 +1,3 @@
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/days that you should wait/cmake-build-debug/CMakeFiles/days_that_you_should_wait.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/days that you should wait/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariakrasivina/CLionProjects/STRUCTURE/tasks/days that you should wait/cmake-build-debug/CMakeFiles/rebuild_cache.dir
